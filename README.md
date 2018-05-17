@@ -1,5 +1,5 @@
 # awesome-eli5 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-👶 Tech "explained" Like you're Five!
+👶 Tech "explained" Like you're Five! [https://git.io/eli5](https://git.io/eli5)
 
 **[[Submit an Explanation!](https://github.com/swapagarwal/awesome-eli5/issues/new)]**
 
