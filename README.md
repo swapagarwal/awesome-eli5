@@ -9,6 +9,7 @@ Inspired by [Brad Hodson](https://www.producthunt.com/@bradleyhodson)'s comment 
 <a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 * [How HTTPS Works](https://howhttps.works/why-do-we-need-https/) - Want to know how HTTPS works? We made a comic. We think it's claw-ver. 😻 Fur real. 😽 ![](https://ph-files.imgix.net/f93174eb-81e4-4c0f-a151-fe504be805e4)
+* [The Evolution of Trust](http://ncase.me/trust/) - An interactive guide to the game theory of cooperation ![](https://camo.githubusercontent.com/60027067472330352577bad62335b90db3076b5f/68747470733a2f2f692e696d6775722e636f6d2f6b6465373630792e706e67)
 
 ## License
 
