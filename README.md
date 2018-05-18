@@ -1,4 +1,4 @@
-# awesome-eli5 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# awesome-eli5 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20awesome-eli5,%20Tech%20"explained"%20Like%20you're%20Five!&url=https://git.io/eli5&via=SwapAgarwal&hashtags=AwesomeELI5)
 👶 Tech "explained" Like you're Five! [https://git.io/eli5](https://git.io/eli5)
 
 **[[Submit an Explanation!](https://github.com/swapagarwal/awesome-eli5/issues/new)]**
@@ -13,6 +13,7 @@ Sign up at [https://upscri.be/2837a7](https://upscri.be/2837a7) to get early acc
 * [How HTTPS Works](https://howhttps.works/why-do-we-need-https/) - Want to know how HTTPS works? We made a comic. We think it's claw-ver. 😻 Fur real. 😽 [![](https://ph-files.imgix.net/f93174eb-81e4-4c0f-a151-fe504be805e4)](https://howhttps.works/why-do-we-need-https/)
 * [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) - In case the above comic left you wanting for more! [![](https://cdn-images-1.medium.com/max/1600/1*vHF6NNdZX9ziiW_uRYzvAA.png)](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
 * [The Evolution of Trust](http://ncase.me/trust/) - An interactive guide to the game theory of cooperation [![](https://camo.githubusercontent.com/60027067472330352577bad62335b90db3076b5f/68747470733a2f2f692e696d6775722e636f6d2f6b6465373630792e706e67)](http://ncase.me/trust/)
+* [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833) - If you still can't figure out what the heck a bitcoin is... (explained using apples!) [![](https://cdn-images-1.medium.com/max/1600/1*d3ASVo4LX_QKtOXaeCdWmg.jpeg)](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833)
 
 ## License
 
