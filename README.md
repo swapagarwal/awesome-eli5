@@ -11,6 +11,7 @@ Inspired by [Brad Hodson](https://www.producthunt.com/@bradleyhodson)'s comment 
 * [The Evolution of Trust](http://ncase.me/trust/) - An interactive guide to the game theory of cooperation [![](https://camo.githubusercontent.com/60027067472330352577bad62335b90db3076b5f/68747470733a2f2f692e696d6775722e636f6d2f6b6465373630792e706e67)](http://ncase.me/trust/)
 * [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833) - If you still can't figure out what the heck a bitcoin is... (explained using apples!) [![](https://i.imgur.com/FqFfcB0.jpg)](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833)
 * [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) - Introducing Phippy, an intrepid little PHP app, and her journey to Kubernetes. [![](https://deis.com/images/blog-images/kubernetes-illustrated-guide-illustration-3.png)](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+* [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) - The ultimate 3500-word guide in plain English to understand Blockchain [![](https://cdn-images-1.medium.com/max/1600/1*BV9t2KZxRV6_ADIsV9OybQ.png)](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
 
 <a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
