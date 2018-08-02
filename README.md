@@ -1,4 +1,4 @@
-# awesome-eli5 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20awesome-eli5,%20Tech%20"explained"%20Like%20you're%20Five!&url=https://git.io/eli5&via=SwapAgarwal&hashtags=AwesomeELI5)
+# awesome-eli5 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20awesome-eli5,%20Tech%20"explained"%20Like%20you're%20Five!&url=https://git.io/eli5&via=SwapAgarwal&hashtags=AwesomeELI5) [![Codeship Status for swapagarwal/awesome-eli5](https://app.codeship.com/projects/dd650590-7897-0136-9264-7608621700ba/status?branch=master)](https://app.codeship.com/projects/300397)
 👶 Tech "explained" Like you're Five! [https://git.io/eli5](https://git.io/eli5)
 
 Inspired by [Brad Hodson](https://www.producthunt.com/@bradleyhodson)'s comment on [How HTTPS Works](https://www.producthunt.com/posts/how-https-works-2):
