@@ -13,67 +13,14 @@ Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@brad
 ## Contents
 
 * [How HTTPS Works](https://howhttps.works/why-do-we-need-https/) - Want to know how HTTPS works? We made a comic. We think it's claw-ver. 😻 Fur real. 😽
-
-<details><summary>Image</summary>
-
-[![](https://ph-files.imgix.net/f93174eb-81e4-4c0f-a151-fe504be805e4)](https://howhttps.works/why-do-we-need-https/)
-</details><br>
-
 * [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) - In case the above comic left you wanting for more!
-
-<details><summary>Image</summary>
-
-[![](https://cdn-images-1.medium.com/max/1600/1*vHF6NNdZX9ziiW_uRYzvAA.png)](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
-</details><br>
-
 * [The Evolution of Trust](https://ncase.me/trust/) - An interactive guide to the game theory of cooperation
-
-<details><summary>Image</summary>
-
-[![](https://camo.githubusercontent.com/60027067472330352577bad62335b90db3076b5f/68747470733a2f2f692e696d6775722e636f6d2f6b6465373630792e706e67)](https://ncase.me/trust/)
-</details><br>
-
 * [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833) - If you still can't figure out what the heck a bitcoin is... (explained using apples!)
-
-<details><summary>Image</summary>
-
-[![](https://i.imgur.com/FqFfcB0.jpg)](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833)
-</details><br>
-
 * [The Children's Illustrated Guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/) - Introducing Phippy, an intrepid little PHP app, and her journey to Kubernetes.
-
-<details><summary>Image</summary>
-
-[![](https://deis.com/images/blog-images/kubernetes-illustrated-guide-illustration-3.png)](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
-</details><br>
-
 * [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) - The ultimate 3500-word guide in plain English to understand Blockchain
-
-<details><summary>Image</summary>
-
-[![](https://cdn-images-1.medium.com/max/1600/1*BV9t2KZxRV6_ADIsV9OybQ.png)](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
-</details><br>
-
 * [Understanding Git](https://hackernoon.com/understanding-git-fcffd87c15a3) - Git is a powerful tool, but it has a reputation of baffling newcomers. It doesn't help that most people are simply thrown in at the deep end and expected to swim. With the right knowledge, anyone can master git. Once you start to understand it, the terminology will make more sense and you'll (eventually) learn to love it.
-
-<details><summary>Image</summary>
-
-[![](https://cdn-images-1.medium.com/max/2000/1*Y6LFCHug7gQ_Y7INjPdIFQ.jpeg)](https://hackernoon.com/understanding-git-fcffd87c15a3)
-</details><br>
-
 * [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) - You'll often hear about the CAP theorem which specifies some kind of an upper limit when designing distributed systems. This introductory tutorial explains the concept by comparing it with a real world situation.
-
-<details><summary>Image</summary>
-
-[![](https://cdn-images-1.medium.com/max/1600/1*-FfMB31GxlC3up_Ps3lXew.png)](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
-</details><br>
-
 * [How to dance the OAuth: a step-by-step lesson](https://medium.freecodecamp.org/how-to-dance-the-oauth-a-step-by-step-lesson-fd2364d89742) - An easy guide for understanding the key concepts of OAuth 2.0
-
-<details><summary>Image</summary>
-
-[![](https://cdn-images-1.medium.com/max/1600/1*uXNaGm_ZEILlWDzHzsqbXw.jpeg)](https://medium.freecodecamp.org/how-to-dance-the-oauth-a-step-by-step-lesson-fd2364d89742)
-</details><br>
 
 ## Contributing
 
