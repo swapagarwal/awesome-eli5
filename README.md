@@ -1,9 +1,12 @@
 # awesome-eli5 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20awesome-eli5,%20Tech%20"explained"%20Like%20you're%20Five!&url=https://git.io/eli5&via=SwapAgarwal&hashtags=AwesomeELI5) [![Codeship Status for swapagarwal/awesome-eli5](https://app.codeship.com/projects/dd650590-7897-0136-9264-7608621700ba/status?branch=master)](https://app.codeship.com/projects/300397) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/swapagarwal/awesome-eli5/fork) [![open issues](https://img.shields.io/github/issues/swapagarwal/awesome-eli5.svg)](https://github.com/swapagarwal/awesome-eli5/issues?q=is%3Aopen+is%3Aissue) [![closed pull requests](https://img.shields.io/github/issues-pr-closed/swapagarwal/awesome-eli5.svg)](https://github.com/swapagarwal/awesome-eli5/pulls?q=is%3Apr+is%3Aclosed) [![](https://img.shields.io/github/stars/swapagarwal/awesome-eli5.svg?style=social)](https://github.com/swapagarwal/awesome-eli5) [![](https://img.shields.io/github/followers/swapagarwal.svg?style=social)](https://github.com/swapagarwal)
 
-👶 Tech "explained" Like you're Five! [https://git.io/eli5](https://git.io/eli5)
+👶 Technical concepts explained in layman terms! [https://git.io/eli5](https://git.io/eli5)
 
-Inspired by [Brad Hodson](https://www.producthunt.com/@bradleyhodson)'s comment on [How HTTPS Works](https://www.producthunt.com/posts/how-https-works-2):
+Going through my Product Hunt feed, I came across a comic that explained [How HTTPS Works](https://www.producthunt.com/posts/how-https-works-2)!
+
 > Great for non-tech people, appeals to kids if they need to learn about HTTPS. Something like this should exist for a lot of topics!
+
+Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@bradleyhodson), I went ahead and created this project to curate similar resources. Contributions are very welcome!! :D
 
 ## Contents
 
