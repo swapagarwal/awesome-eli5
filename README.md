@@ -4,6 +4,8 @@
 
 Going through my Product Hunt feed, I came across a comic that explained [How HTTPS Works](https://www.producthunt.com/posts/how-https-works-2)!
 
+[![](https://ph-files.imgix.net/f93174eb-81e4-4c0f-a151-fe504be805e4)](https://howhttps.works/why-do-we-need-https/)
+
 > Great for non-tech people, appeals to kids if they need to learn about HTTPS. Something like this should exist for a lot of topics!
 
 Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@bradleyhodson), I went ahead and created this project to curate similar resources. Contributions are very welcome!! :D
