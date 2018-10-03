@@ -21,6 +21,7 @@ Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@brad
 * [Understanding Git](https://hackernoon.com/understanding-git-fcffd87c15a3) - Git is a powerful tool, but it has a reputation of baffling newcomers. It doesn't help that most people are simply thrown in at the deep end and expected to swim. With the right knowledge, anyone can master git. Once you start to understand it, the terminology will make more sense and you'll (eventually) learn to love it.
 * [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) - You'll often hear about the CAP theorem which specifies some kind of an upper limit when designing distributed systems. This introductory tutorial explains the concept by comparing it with a real world situation.
 * [How to dance the OAuth: a step-by-step lesson](https://medium.freecodecamp.org/how-to-dance-the-oauth-a-step-by-step-lesson-fd2364d89742) - An easy guide for understanding the key concepts of OAuth 2.0
+* [What is Machine Learing?](https://medium.com/@deadlocked_d/explain-like-im-5-machine-learning-e428a125663c) - What exactly is machine learning and why should you care? 
 
 ## Contributing
 
