@@ -12,6 +12,9 @@ Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@brad
 
 ## Contents
 
+* [How the Internet Works](https://medium.com/@fay_jai/how-the-internet-works-a-simple-explanation-ca8053c71661) - How the Internet Works:(A Simple Explanation)
+
+
 * [How HTTPS Works](https://howhttps.works/why-do-we-need-https/) - Want to know how HTTPS works? We made a comic. We think it's claw-ver. 😻 Fur real. 😽
 * [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351) - In case the above comic left you wanting for more!
 * [The Evolution of Trust](https://ncase.me/trust/) - An interactive guide to the game theory of cooperation
