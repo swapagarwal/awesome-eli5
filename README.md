@@ -21,6 +21,8 @@ Inspired by the above comment by [Brad Hodson](https://www.producthunt.com/@brad
 * [Understanding Git](https://hackernoon.com/understanding-git-fcffd87c15a3) - Git is a powerful tool, but it has a reputation of baffling newcomers. It doesn't help that most people are simply thrown in at the deep end and expected to swim. With the right knowledge, anyone can master git. Once you start to understand it, the terminology will make more sense and you'll (eventually) learn to love it.
 * [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) - You'll often hear about the CAP theorem which specifies some kind of an upper limit when designing distributed systems. This introductory tutorial explains the concept by comparing it with a real world situation.
 * [How to dance the OAuth: a step-by-step lesson](https://medium.freecodecamp.org/how-to-dance-the-oauth-a-step-by-step-lesson-fd2364d89742) - An easy guide for understanding the key concepts of OAuth 2.0
+* [How to Explain AI to Kids](https://medium.com/eliza-effect/science-fiction-movie-trailers-and-youtube-videos-i-use-to-help-kids-understand-artificial-38a6c08d4652) - Science Fiction, Movie Trailers, and Youtube Videos I Use to Help Kids Understand Artificial Intelligence.
+* [CertBros - Networking Explained in Plain English](https://www.youtube.com/channel/UCZg4PvX48mgXQVySgIulX-Q)- Welcome to the CertBros Youtube channel! Not your average IT training Get involved and become apart of this awesome journey! Explaining the basic understanding of Networking using basic English terms and image representation provided.
 
 ## Contributing
 
