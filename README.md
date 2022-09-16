@@ -41,3 +41,5 @@ Sign up at [https://upscri.be/2837a7](https://upscri.be/2837a7) to get early acc
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Swapnil Agarwal](http://swapnil.net) has waived all copyright and related or neighboring rights to this work.
+
+* [Basic commands to start using Linux] : https://bytexd.com/linux-command-line-for-beginners/
